@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd68cab1fb4e8db46a41426b08429c58, type: 3}
+  m_Name: ArcherSO
+  m_EditorClassIdentifier: 
+  Level: 1
+  Title: Archer
+  Description: desc
+  Purchase: 70
+  Upgrade: 100
+  Quantity: 0
+  _damage: 20
+  _health: 100
+  _attackRate: 0.5
+  _idleMoveSpeed: 3
+  _viewingMoveSpeed: 2
+  _attackMoveSpeed: 2
+  _distanceToTarget: 9
+  _distanceToBattle: 15
+  _viewingRadius: 17
+  _attackingRadius: 15
+  _pointRadius: 0
+  _bloodDrop: 0
+  _bulletSpeed: 100
+  _bulletTimeToDestroy: 5
+  _bulletJumpPower: 2
+  _bulletJumpDuration: 2

@@ -3,7 +3,14 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
+<<<<<<< HEAD
+  tags:
+  - PlayersUnit
+  - EnemyUnit
+  - Ground
+=======
   tags: []
+>>>>>>> parent of f4a8901 (test commit)
   layers:
   - Default
   - TransparentFX
@@ -34,9 +41,15 @@ TagManager:
   - 
   - 
   - 
+<<<<<<< HEAD
+  - Ground
+  - PlayersUnitLayer
+  - EnemyLayer
+=======
   - 
   - 
   - 
+>>>>>>> parent of f4a8901 (test commit)
   m_SortingLayers:
   - name: Default
     uniqueID: 0

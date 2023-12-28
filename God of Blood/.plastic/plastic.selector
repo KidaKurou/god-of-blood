@@ -1,0 +1,4 @@
+repository "God of Blood@EnotoXvost@cloud"
+  path "/"
+    br "/main"
+    co "/main"
