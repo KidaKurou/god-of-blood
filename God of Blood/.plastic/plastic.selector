@@ -1,0 +1,4 @@
+repository "God of Blood@BloodMarkedTeam@cloud"
+  path "/"
+    br "/main"
+    co "/main"

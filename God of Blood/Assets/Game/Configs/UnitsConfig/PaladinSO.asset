@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd68cab1fb4e8db46a41426b08429c58, type: 3}
+  m_Name: PaladinSO
+  m_EditorClassIdentifier: 
+  Level: 1
+  Title: Paladin
+  Description: desc
+  Purchase: 50
+  Upgrade: 200
+  Damage: 20
+  Health: 110
+  AttackRate: 2
+  _idleMoveSpeed: 2
+  _viewingMoveSpeed: 2
+  _attackMoveSpeed: 1
+  _distanceToTarget: 1
+  _distanceToBattle: 2
+  _viewingRadius: 10
+  _attackingRadius: 2
+  _pointRadius: 0.25
+  _bloodDrop: 0
+  _bulletSpeed: 0
+  _bulletTimeToDestroy: 0
+  _bulletJumpPower: 0
+  _bulletJumpDuration: 0
