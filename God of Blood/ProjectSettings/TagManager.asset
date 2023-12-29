@@ -3,7 +3,11 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Selectable
+  - PlayersUnit
+  - Ground
+  - EnemyUnit
   layers:
   - Default
   - TransparentFX
@@ -11,6 +15,10 @@ TagManager:
   - 
   - Water
   - UI
+  - isGround
+  - isBuilding
+  - navMesh
+  - Path
   - 
   - 
   - 
@@ -30,13 +38,9 @@ TagManager:
   - 
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Ground
+  - PlayersUnitLayer
+  - EnemyLayer
   m_SortingLayers:
   - name: Default
     uniqueID: 0

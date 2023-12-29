@@ -4,5 +4,26 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartGameInst.unity
+    guid: a41cd83d0f379464696ca9d4fa68ae15
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/SettlementMode.unity
+    guid: d6a8afd1aa1938943ae7e39acf615d88
+  - enabled: 1
+    path: Assets/Scenes/Headquarters.unity
+    guid: 845f322f1b5f5e14c96c19f9782d2ffe
+  - enabled: 1
+    path: Assets/Scenes/LevelLoad.unity
+    guid: b282093319506774aa7318c974525a5e
+  - enabled: 1
+    path: Assets/Scenes/BattleScene1.unity
+    guid: 6a5fcf660f681464595d82f045d18b18
+  - enabled: 1
+    path: Assets/Scenes/BattleScene2.unity
+    guid: 07942c0118547654d843f2576fed257f
   m_configObjects: {}
